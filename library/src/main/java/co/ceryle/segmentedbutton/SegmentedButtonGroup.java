@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2016 Ege Aker <egeaker@gmail.com>
+ * Copyright (C) 2016 ceryle
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -49,8 +49,6 @@ import android.view.animation.LinearInterpolator;
 import android.view.animation.OvershootInterpolator;
 import android.widget.FrameLayout;
 import android.widget.LinearLayout;
-
-import com.ceryle.segmentedbutton.R;
 
 import java.util.ArrayList;
 
